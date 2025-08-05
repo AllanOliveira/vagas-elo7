@@ -32,6 +32,7 @@ Leia atentamente os pontos avaliados no desafio.
 - [ ] implementado
 
 ## Requisito 2: Criar a pagina inicial
+- [ ] Criar BFF
 - [ ] Criar pagina
 - [ ] Adicionar Banner centralizado
 - [ ] Adicionar Titulo
@@ -45,6 +46,11 @@ Leia atentamente os pontos avaliados no desafio.
 - [ ] Tratar retorna da api para subistituir dados sem localização para a palavra "Remoto"
 - [ ] Adicione testes unitarios
 
-## Requisito 3: Produtizando aplicação
+## Requisito 4: Produtizando aplicação
 - [ ] Crie um container docker contendo sua aplicação
 - [ ] Adicone logs em seu BFF
+- [ ] Metricas
+
+## Requisito 5: Opicionais
+- [ ] Paginação
+- [ ] Teste de aceitação

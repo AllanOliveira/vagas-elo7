@@ -26,23 +26,25 @@ Leia atentamente os pontos avaliados no desafio.
 # Pontos que NÃO são avaliados
 - capacidade de decorar tecnologias sem necessidade de consulta
 - capacidade de ter todas soluções sem necessidade de debate e/ou consulta
+- implementar estilos idênticos ao do figma
 
-## Requisito 1: todo código deve ser versionado localmente e remotamente
+## Requisito 1: todo código deve ser versionado localmente
 #### ideia de implementação 
 - [ ] implementado
 
-## Requisito 2: Criar a pagina inicial
-- [ ] Criar pagina
+## Requisito 2: Criar a pagina de vagas elo7( Ultimas duas sessões do figma: banner e listagem de vagas)
+- [ ] Criar pagina base
 - [ ] Adicionar Banner centralizado
 - [ ] Adicionar Titulo
 - [ ] Adicionar Lista de vagas de forma fixa
-- [ ] Adicionar Filtro da listagem
+- [ ] Adicionar Filtro da listagem(não funcional)
 
 ## Requisito 3: Consumindo api
 - [ ] Criar BFF
-- [ ] Passar a listar vagas vindas da [API](https://img.elo7.com.br/mock-vagas.json)
+- [ ] Renderizar pagina criada no servidor
+- [ ] Usar [API](https://img.elo7.com.br/mock-vagas.json) para listar as vagas na pagina
 - [ ] Tratar retorno da api para listar apenas vagas em aberto
-- [ ] Tratar retorna da api para subistituir dados sem localização para a palavra "Remoto"
+- [ ] Tratar retorna da api para substituir dados sem localização para a palavra "Remoto"
 - [ ] Adicione testes unitarios
 
 ## Requisito 4: Produtizando aplicação
@@ -51,5 +53,6 @@ Leia atentamente os pontos avaliados no desafio.
 - [ ] Metricas
 
 ## Requisito 5: Opicionais
+- [ ] Filtros no servidor
 - [ ] Paginação
 - [ ] Teste de aceitação

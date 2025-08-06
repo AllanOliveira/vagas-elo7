@@ -32,15 +32,14 @@ Leia atentamente os pontos avaliados no desafio.
 - [ ] implementado
 
 ## Requisito 2: Criar a pagina inicial
-- [ ] Criar BFF
 - [ ] Criar pagina
 - [ ] Adicionar Banner centralizado
 - [ ] Adicionar Titulo
 - [ ] Adicionar Lista de vagas de forma fixa
 - [ ] Adicionar Filtro da listagem
-- [ ] Deixar pagina responsiva
 
 ## Requisito 3: Consumindo api
+- [ ] Criar BFF
 - [ ] Passar a listar vagas vindas da [API](https://img.elo7.com.br/mock-vagas.json)
 - [ ] Tratar retorno da api para listar apenas vagas em aberto
 - [ ] Tratar retorna da api para subistituir dados sem localização para a palavra "Remoto"
